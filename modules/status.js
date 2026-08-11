@@ -10,7 +10,7 @@ module.exports = {
     async execute(interaction) {
         const serverIP = process.env.MC_SERVER_IP;
         if (!serverIP) {
-            return interaction.reply({ content: "⚠️ Server IP is not configured. Please check the .env file.", ephemeral: true });
+            return interaction.reply({ content: "Server IP is not configured. Please check the .env file.", ephemeral: true });
         }
 
         const apiURL = `https://api.mcsrvstat.us/2/${serverIP}`;
