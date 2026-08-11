@@ -1,7 +1,6 @@
 ## Minecraft Status Bot  
 
-**Description:**  
-- Minecraft Status Bot is a professional and efficient Discord bot designed to provide real-time status updates for your Minecraft server. It fetches essential server information, such as online players, queue status, and more, ensuring server administrators and players stay informed at all times.
+Minecraft Status Bot is a professional and efficient Discord bot designed to provide real-time status updates for your Minecraft server. It fetches essential server information, such as online players, queue status, and more, ensuring server administrators and players stay informed at all times.
 
 **Features:**  
 - Live Minecraft server status updates  
@@ -19,7 +18,7 @@ To set up Minecraft Status Bot on your own Discord server, follow these steps:
 ### Clone the Repository  
 Clone the repository to your local machine using the following command:  
 ```sh
-git clone https://github.com/Giaxasidis/discord-mcstatus-bot
+git clone https://github.com/Giachasidis/discord-mcstatus-bot
 ```
 
 ### Install Dependencies  
